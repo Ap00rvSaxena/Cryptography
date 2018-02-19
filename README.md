@@ -1,1 +1,3 @@
 # Cryptography
+
+Cryptography is a Java based project developed on Eclipse JEE Mars. It helps a user in keeping his files secure from unwanted access by the use of many algorithms like AES, DES, Ceaser Cipher and many others, it also provides attractive, Efficient and very Clear and Concise graphical user interface for Data Encryption and Decryption. The user also has a choice of having a his own password which will be used a key in Encryption algorithm.
